@@ -1,7 +1,7 @@
 name: Qlok
 favicon: null
-layout_spectrum: 0.30238448083400726
-typography_spectrum: 0.5181045026984066
+layout_spectrum: 0
+typography_spectrum: 0.8604
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.2693958883173764
-  lightness: 0.779585930518806
-  saturation: 0.18574363226071
-  rhythmicContrast: 0.06129606696777046
+    - '#bcbbcb'
+    - '#171017'
+    - '#fcecdf'
+    - '#6c6165'
+    - '#473c3a'
+  brandStrength: 1
+  lightness: 0.1875
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
